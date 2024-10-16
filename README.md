@@ -1,4 +1,4 @@
-# tay
+# Taylor10Min
 
 A little cmd line program to practice learning the verses of Taylor Swift's "All Too Well" 10 minute version.
 
